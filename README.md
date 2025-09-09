@@ -1,1 +1,1 @@
-# HELLO-GITHUB
+git config --global user.name "Esh"
